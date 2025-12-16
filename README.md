@@ -7,3 +7,4 @@ Tested on: https://quotes.toscrape.com
 
 Purpose: Educational / cybersecurity data collection demo.
 
+by govind
